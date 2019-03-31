@@ -3,6 +3,15 @@
 My Code - 
 
 ```python
+%matplotlib inline
+
+import numpy as np
+
+import nsfg
+import first
+import thinkstats2
+import thinkplot
+
 # Filter dataframes to split between first and other babies
 preg = nsfg.ReadFemPreg()
 live = preg[preg.outcome == 1]
