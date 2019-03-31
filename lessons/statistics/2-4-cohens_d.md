@@ -1,5 +1,6 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
+'''
 My Code:
 
 # Filter dataframes to split between first and other babies
@@ -30,3 +31,4 @@ d_first_other_lngth = cohen_d(first.prglngth, other.prglngth)
 
 print('cohen_d weight: ', '{:.3f}'.format(d_first_other_wgt))
 print('cohen_d prengnancy length: ', '{:.3f}'.format(d_first_other_lngth))
+'''
