@@ -50,3 +50,6 @@ print('Actual Mean: ', '{:0.3f}'.format(true_mean))
 print('Biased Mean: ', '{:0.3f}'.format(biased_mean))
 ```
 
+Actual Mean:  1.024
+
+Biased Mean:  2.404
