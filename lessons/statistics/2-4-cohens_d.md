@@ -1,6 +1,6 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
-My Code:
+My Code - 
 
 ```python
 # Filter dataframes to split between first and other babies
@@ -32,3 +32,10 @@ d_first_other_lngth = cohen_d(first.prglngth, other.prglngth)
 print('cohen_d weight: ', '{:.3f}'.format(d_first_other_wgt))
 print('cohen_d prengnancy length: ', '{:.3f}'.format(d_first_other_lngth))
 ```
+
+My Results - 
+
+cohen_d weight:  -0.063
+cohen_d prengnancy length:  0.011
+
+First babies on average lighter than other babies (and pregnancies for first babies are longer).  The magnitude of the Cohen's D for weight is greater in absolute terms than it is for prengnancy length.  This means that if we were to observe many such samples, we are more likely to observe that first babies are lighter in those samples than that first pregnancies take longer.
