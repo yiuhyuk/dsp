@@ -109,7 +109,7 @@ print('The probability that Elvis was an indentical twin is: ', '{:0.3f}'.format
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Frequentists and Bayesians differ in how they think about using probability and also in whether prior data is relevant.  In frequentist statistics, probability is only relevant if the event in question is a repeatable process (can repeat N times where N is very large).  In Bayesian statistics there is no such constraint to using probability.  So the Bayesian would use his prior experience (and beliefs) to estimate a probability and then update that probability as events unfold (trials are conducted whether it be just one or many).  Frequentists would not allow priors to leak into the analysis; all the relevant data comes from conducting trials.
 
 ---
 
