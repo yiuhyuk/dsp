@@ -1,5 +1,7 @@
 [Think Stats Chapter 4 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2005.html#toc41) (a random distribution)
 
+My Code -
+
 ```python
 import random
 import pandas as pd
@@ -30,3 +32,8 @@ plt.ylabel('frequency')
 plt.title('CDF')
 plt.show()
 ```
+
+My Results -
+
+While not completely uniform, it looks to be close enough.  The CDF is more or less an upward sloping straight line.
+
