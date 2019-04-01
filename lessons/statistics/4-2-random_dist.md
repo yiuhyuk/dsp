@@ -37,3 +37,5 @@ My Results -
 
 While not completely uniform, it looks to be close enough.  The CDF is more or less an upward sloping straight line.
 
+![random_pmf](rand_pmf.png)
+![random_cdf](rand_cdf.png)
