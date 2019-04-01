@@ -8,3 +8,5 @@ print('The probability of being eligible is :', '{:0.3f}'.format(prob_blue))
 ```
 
 The probability of being eligible is: 0.343
+
+I just took the probability that people are shorter than 6'1 and subtracted the probability that people are shorter than 5'10.  The difference is the probability that a randomly sampled male will be between 5'10 and 6'1.
