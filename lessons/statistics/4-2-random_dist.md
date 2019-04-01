@@ -35,7 +35,7 @@ plt.show()
 
 My Results -
 
-While not completely uniform, it looks to be close enough.  The CDF is more or less an upward sloping straight line.
+While not completely uniform, it looks to be close enough.  The CDF is more or less an upward sloping straight line.  The straightness of the line implies that the probability of each value (between 0 and 1) relative to the others is roughly uniform.
 
 ![random_pmf](rand_pmf.png)
 ![random_cdf](rand_cdf.png)
